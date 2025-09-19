@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-
 echo ">>> Updating system..."
 sudo apt-get update -y
 sudo apt-get upgrade -y
